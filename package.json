@@ -1,0 +1,26 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "description": "demo",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RohitChaturvedi05/data-structures-js.git"
+    },
+    "keywords": [
+        "demo"
+    ],
+    "author": "rohit",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RohitChaturvedi05/data-structures-js/issues"
+    },
+    "homepage": "https://github.com/RohitChaturvedi05/data-structures-js#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
